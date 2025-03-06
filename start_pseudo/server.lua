@@ -1,4 +1,3 @@
--- Exemple d'affichage ASCII art du pseudo "MONPSEUDO"
 local pseudoArt = [[
 ^5   	
 ^5   ############################################
@@ -12,8 +11,7 @@ local pseudoArt = [[
 ^5   ############################################ 
 ]] 
 
--- Attendre un peu que tous les scripts soient lanc\u00e9s (optionnel)
 Citizen.CreateThread(function()
-    Citizen.Wait(1000)  -- attendre 1 seconde
+    Citizen.Wait(1000)
     print(pseudoArt)
 end)
