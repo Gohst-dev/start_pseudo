@@ -18,12 +18,5 @@ ensure start_pseudo
 🛠️ Configuration :
 Si vous souhaitez modifier le pseudo affiché, éditez simplement le fichier server.lua et remplacez l'ASCII Art par le vôtre. Vous pouvez générer un nouvel ASCII Art sur des sites comme patorjk.com (ASCII Text Generator).
 
-🔗 Exemple d'affichage :
-
-  #####   ####   ##   ##  #####  
- ##      ##  ##  ##   ##  ##  ## 
- ##  ### ######  ##   ##  #####  
- ##   ## ##  ##  ##   ##  ##     
-  #####  ##  ##   #####   ##   
   
 ✨ Personnalisez le lancement de votre serveur dès aujourd'hui avec ce script simple et efficace ! 🚀🔥
